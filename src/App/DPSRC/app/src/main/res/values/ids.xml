@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="imageView">false</item>
+    <item type="id" name="group_server">false</item>
+    <item type="id" name="button_about">false</item>
+    <item type="id" name="button_custom">false</item>
+    <item type="id" name="button_connect">false</item>
+    <item type="id" name="btn_show_hide">false</item>
+    <item type="id" name="ln_main">false</item>
+    <item type="id" name="gesture_ir">false</item>
+    <item type="id" name="button_up">false</item>
+    <item type="id" name="button_left">false</item>
+    <item type="id" name="button_right">false</item>
+    <item type="id" name="button_down">false</item>
+    <item type="id" name="button_b">false</item>
+    <item type="id" name="button_a">false</item>
+    <item type="id" name="button_minus">false</item>
+    <item type="id" name="button_home">false</item>
+    <item type="id" name="button_plus">false</item>
+    <item type="id" name="button_ul">false</item>
+    <item type="id" name="button_ur">false</item>
+    <item type="id" name="button_middle">false</item>
+    <item type="id" name="button_dl">false</item>
+    <item type="id" name="button_dr">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
+    <item type="id" name="server_address">false</item>
+    <item type="id" name="server_port">false</item>
+</resources>

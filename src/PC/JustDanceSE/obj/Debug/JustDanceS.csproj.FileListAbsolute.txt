@@ -1,0 +1,14 @@
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDance201X.exe.config
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDance201X.exe
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDance201X.pdb
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\MainWindow.g.cs
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\App.g.cs
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X_MarkupCompile.cache
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X_MarkupCompile.lref
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\MainWindow.baml
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X.g.resources
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X.Properties.Resources.resources
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceS.csproj.GenerateResource.Cache
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X.exe
+c:\users\ridge\documents\visual studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDance201X.pdb
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDanceSE.exe.config

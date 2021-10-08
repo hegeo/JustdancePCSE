@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffff" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@id/btn_show_hide"
+        android:layout_width="90dp"
+        android:layout_height="40.0dip"
+        android:layout_gravity="end"
+        android:background="@drawable/btnstyle"
+        android:text="隐藏"
+        android:textColor="#b0ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <LinearLayout android:orientation="vertical" android:id="@id/ln_main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+        <TextView
+            android:id="@+id/atext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:padding="12.0dip"
+            android:text="JUSTDANCE SE"
+            android:textColor="#EDF0E5FF"
+            android:textSize="40.0dip"
+            android:textStyle="bold" />
+
+        <android.gesture.GestureOverlayView
+            android:id="@id/gesture_ir"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:gestureColor="#FFFFFF"
+            android:fadeEnabled="true"
+            android:fadeDuration="3000"
+            android:gestureStrokeWidth="30"
+            android:background="@drawable/gesture_ir_bg" />
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+            <com.encvstin.jdsec.SquarLinearLayout
+                android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.45">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="2.0">
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0" />
+
+                    <Button
+                        android:id="@id/button_up"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.5"
+                        android:background="@drawable/btn_cross_0"
+                        android:text="@string/up"
+                        android:textColor="#ffffffff"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+
+                    <Button
+                        android:id="@id/button_left"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.0"
+                        android:background="@drawable/btn_cross_0"
+                        android:text="@string/left"
+                        android:textColor="#ffffffff"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.5" />
+
+                    <Button
+                        android:id="@id/button_right"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.0"
+                        android:background="@drawable/btn_cross_0"
+                        android:text="@string/right"
+                        android:textColor="#ffffffff"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="2.0">
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0" />
+
+                    <Button
+                        android:id="@id/button_down"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.5"
+                        android:background="@drawable/btn_cross_0"
+                        android:text="@string/down"
+                        android:textColor="#ffffffff"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0" />
+                </LinearLayout>
+            </com.encvstin.jdsec.SquarLinearLayout>
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="0.5" />
+            <LinearLayout android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="2.0">
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+
+                        <Button
+                            android:id="@id/button_b"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_column="1"
+                            android:background="@drawable/btn_ab_0"
+                            android:text="@string/b"
+                            android:textColor="#ffffffff"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </com.encvstin.jdsec.SquarLinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="2.0">
+                    <com.encvstin.jdsec.SquarLinearLayout
+                        android:layout_width="fill_parent" android:layout_height="wrap_content">
+
+                        <Button
+                            android:id="@id/button_a"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:background="@drawable/btn_ab_0"
+                            android:text="@string/a"
+                            android:textColor="#ffffffff"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </com.encvstin.jdsec.SquarLinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginBottom="0.0dip">
+            <com.encvstin.jdsec.SquarLinearLayout
+                android:layout_width="42.0dip" android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@id/button_minus"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/btn_ab_0"
+                    android:text="@string/minus"
+                    android:textColor="#ffffffff"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.encvstin.jdsec.SquarLinearLayout>
+            <com.encvstin.jdsec.SquarLinearLayout
+                android:layout_width="42.0dip" android:layout_height="wrap_content" android:layout_marginLeft="18.0dip" android:layout_marginRight="18.0dip">
+
+                <Button
+                    android:id="@id/button_home"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/btn_ab_0"
+                    android:text="@string/home"
+                    android:textColor="#ffffffff"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.encvstin.jdsec.SquarLinearLayout>
+            <com.encvstin.jdsec.SquarLinearLayout
+                android:layout_width="42.0dip" android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@id/button_plus"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/btn_ab_0"
+                    android:text="@string/plus"
+                    android:textColor="#ffffffff"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </com.encvstin.jdsec.SquarLinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:id="@id/button_ul" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/ul" />
+            <Button android:id="@id/button_ur" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/ur" />
+            <Button android:id="@id/button_middle" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="" />
+            <Button android:id="@id/button_dl" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/dl" />
+            <Button android:id="@id/button_dr" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/dr" />
+            <Button android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_column="0" android:text="@string/minus" />
+            <Button android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_column="2" android:text="@string/plus" />
+            <Button android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/home" />
+            <Button android:id="@id/button_1" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_column="0" android:text="@string/one" />
+            <Button android:id="@id/button_2" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_column="1" android:text="@string/two" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

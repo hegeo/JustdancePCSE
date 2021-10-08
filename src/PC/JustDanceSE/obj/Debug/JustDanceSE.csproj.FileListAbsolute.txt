@@ -1,0 +1,41 @@
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDanceSE.exe.config
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDanceSE.exe
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\bin\Debug\JustDanceSE.pdb
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.csprojResolveAssemblyReference.cache
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\MainWindow.g.cs
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\App.g.cs
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE_MarkupCompile.cache
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE_MarkupCompile.lref
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\MainWindow.baml
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.g.resources
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.Properties.Resources.resources
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.csproj.GenerateResource.Cache
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.exe
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDance201X\JustDance201X\obj\Debug\JustDanceSE.pdb
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.exe.config
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.exe
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.pdb
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\MainWindow.g.cs
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\App.g.cs
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE_MarkupCompile.cache
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE_MarkupCompile.lref
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\MainWindow.baml
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.g.resources
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.Properties.Resources.resources
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.csproj.GenerateResource.Cache
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.exe
+C:\Users\Ridge\Documents\Visual Studio 2015\Projects\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.pdb
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.exe.config
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.exe
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\bin\Debug\JustDanceSE.pdb
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.csprojResolveAssemblyReference.cache
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\MainWindow.g.cs
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\App.g.cs
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE_MarkupCompile.cache
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE_MarkupCompile.lref
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\MainWindow.baml
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.g.resources
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.Properties.Resources.resources
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.csproj.GenerateResource.Cache
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.exe
+D:\迅雷下载\PRO\JustDanceSE启动器源码\JustDanceSE\JustDanceSE\obj\Debug\JustDanceSE.pdb
