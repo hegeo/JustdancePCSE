@@ -50,7 +50,7 @@ namespace JustDance201X
                 textBlock_PCS.Text = "SpecialEdition";
                 textBlock_SELVR.Text = "Choose a version to play with";
                 textBlock_MANZE.Text = "Disclaimer: this starter program and mobile app are free to download. They are strictly prohibited for commercial use. The developer shall not bear any legal responsibility.";
-                textBlock_DEVINFO.Text = "Developer email: encvstin@qq.com                [Mobile app built based on Dolphindroid]";
+                textBlock_DEVINFO.Text = "Developer email: hegeo@foxmail.com             [Mobile app built based on Dolphindroid]";
             }
 
             if (File.Exists(@Environment.CurrentDirectory + "\\Dolphin.exe"))

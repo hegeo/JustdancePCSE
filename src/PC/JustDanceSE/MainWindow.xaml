@@ -5,14 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JustDance201X"
         mc:Ignorable="d"
-        Title="JustDanceSE" Height="594.104" Width="600" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" BorderThickness="1">
-    <Grid Background="#FF4F09A2" MouseMove="Grid_MouseMove">
+        Title="JustDanceSE" Height="594.104" Width="600" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" BorderThickness="1" Foreground="White" BorderBrush="#7FFFFFFF">
+    <Grid MouseMove="Grid_MouseMove">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF03A3FF" Offset="0"/>
+                <GradientStop Color="#FFAA19E0" Offset="0.993"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Image x:Name="imagex_4" HorizontalAlignment="Left" Height="134" Margin="467,115,0,0" VerticalAlignment="Top" Width="108" Source="images/2016.jpg" Stretch="UniformToFill" Opacity="0.3" MouseEnter="imagex_4_MouseEnter" MouseLeave="imagex_4_MouseLeave" MouseDown="imagex_4_MouseDown"/>
 
-        <Button x:Name="button" Content="开始游戏" HorizontalAlignment="Left" Margin="0,304,0,0" VerticalAlignment="Top" Width="600" Height="46" Background="#FFEED31F" Foreground="#FF4F09A2" FontSize="18" FontWeight="Bold" Click="button_Click"/>
+        <Button x:Name="button" Content="开始游戏" HorizontalAlignment="Left" Margin="0,304,0,0" VerticalAlignment="Top" Width="600" Height="46" Foreground="White" FontSize="18" FontWeight="Bold" Click="button_Click">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFB5A4FF"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FF8B72FB" Offset="0.167"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
         <Grid Margin="21,10,79,474">
             <TextBlock x:Name="textBlock_JD" TextWrapping="Wrap" Text="舞力全开" VerticalAlignment="Top" Height="39" Width="123" FontSize="30" FontWeight="Bold" Foreground="White" HorizontalAlignment="Left"/>
-            <TextBlock x:Name="textBlock_PCS" Margin="128,0,0,0" TextWrapping="Wrap" Text="PC特别版" VerticalAlignment="Top" Height="39" Width="140" FontSize="30" Foreground="#FFFFDE00" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="textBlock_PCS" Margin="128,0,0,0" TextWrapping="Wrap" Text="PC特别版" VerticalAlignment="Top" Height="39" Width="140" FontSize="30" Foreground="#FFFFE800" HorizontalAlignment="Left"/>
         </Grid>
         <TextBlock x:Name="textBlock_SELVR" HorizontalAlignment="Left" Margin="23,56,0,0" TextWrapping="Wrap" Text="选择您要游玩的版本" VerticalAlignment="Top" Height="22" Width="267" FontSize="16" Foreground="White"/>
         <Image x:Name="imagex_3" HorizontalAlignment="Left" Height="154" Margin="355,105,0,0" VerticalAlignment="Top" Width="124" Source="images/2020.jpg" Stretch="UniformToFill" Opacity="0.6" MouseEnter="imagex_3_MouseEnter" MouseLeave="imagex_3_MouseLeave" MouseDown="imagex_3_MouseDown"/>
@@ -44,7 +58,7 @@
         <Image x:Name="image1" HorizontalAlignment="Left" Height="31" Margin="564,10,0,0" VerticalAlignment="Top" Width="27" Source="images/exit.png" RenderTransformOrigin="0.654,0.409" MouseDown="image1_MouseDown"/>
         <Image x:Name="image1_Copy" HorizontalAlignment="Left" Height="25" Margin="524,12,0,0" VerticalAlignment="Top" Width="25" Source="images/refresh.png" RenderTransformOrigin="-1.099,0.366" MouseDown="image1_Copy_MouseDown"/>
         <TextBlock x:Name="textBlock_MANZE" HorizontalAlignment="Left" Margin="48,522,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="520" Foreground="White" Text="免责声明：本启动器程序及手机APP均为免费下载，仅供学习研究使用，请在下载后24小时内删除，严禁用于商业用途，开发者不承担任何法律责任。" Opacity="0.3"/>
-        <TextBlock x:Name="textBlock_DEVINFO" HorizontalAlignment="Left" Margin="48,556,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="520" Foreground="White" Text="开发者邮箱：encvstin@qq.com                                           [手机APP基于Dolphindroid构建]" Opacity="0.3"/>
+        <TextBlock x:Name="textBlock_DEVINFO" HorizontalAlignment="Left" Margin="48,556,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="520" Foreground="White" Text="开发者邮箱：hegeo@foxmail.com                                         [手机APP基于Dolphindroid构建]" Opacity="0.3"/>
 
     </Grid>
 </Window>
