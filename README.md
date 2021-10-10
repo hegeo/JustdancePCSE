@@ -35,4 +35,4 @@ Justdance PC Launcher，Implementing emulator auto-configuration and Android app
 ------
 
 #### 界面预览 
-
+![image](img/preview1.png)
