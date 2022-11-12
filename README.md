@@ -26,7 +26,7 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 
 1.下载bin文件夹内启动器，网上搜索下载舞力全开wbfs游戏ROM文件，即可使用
 
-2.下载舞力全开16-20的wbfs固件，以JD2016.wbfs,JD2017.wbfs..命名规则放在ROM文件夹内
+2.将游戏的wbfs文件，以JD2016.wbfs,JD2017.wbfs..命名规则放在ROM文件夹内
 
 3.运行启动器，使用安卓手机扫码下载App安装控制器，输入连接码连接模拟器
 
@@ -37,15 +37,18 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 
 1.优化了启动器和控制器APP界面，更加美观，且便于操作
 
-2.扩充游戏库，支持2014-2022版本选择切换，且无须完全下载所有ROM 
+2.扩充游戏列表，支持2014-2022版本选择切换，且无须完全下载所有ROM 
 
 3.优化了海豚模拟器配置，连接更加顺畅，支持多人游玩
 
 4.优化了海豚模拟器着色器，画质稍微加强一点
 
-5.支持了本地共享文件，可以扫码直接下控制器APP
+5.支持了本地共享文件，可以扫码直接下控制器APP，免手动拷贝安装
 
 6.优化了控制器APP一些逻辑BUG，连接更稳定和操作更加顺畅
+
+7.集成启动必要文件，免除单独准备模拟器及其他文件，请使用管理员权限运行
+
 
 ------
 #### 开发者的话
