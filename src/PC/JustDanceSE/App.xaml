@@ -1,8 +1,8 @@
-﻿<Application x:Class="JustDance201X.App"
+﻿<Application x:Class="JustDanceSE.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:JustDance201X"
-             StartupUri="MainWindow.xaml">
+             xmlns:local="clr-namespace:JustDanceSE"
+             >
     <Application.Resources>
          
     </Application.Resources>
