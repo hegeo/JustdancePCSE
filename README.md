@@ -33,6 +33,7 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 4.选择游戏版本，点击开始，通过手机选择歌曲，开始游玩
 
 ------
+
 #### 更新说明 [V2.0]	
 
 1.优化了启动器和控制器APP界面，更加美观，且便于操作
@@ -49,8 +50,8 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 
 7.集成启动必要文件，免除单独准备模拟器及其他文件，请使用管理员权限运行
 
-
 ------
+
 #### 开发者的话
 
 用爱发电，开发不易！希望得到精神鼓励，如果本项目帮到了您，麻烦点点★ star！谢谢您！
@@ -59,6 +60,7 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 
 基于yuzu的整合版本画质高清，且支持使用iPhone体感操作！
 
+------
 
 #### 界面预览 
 ![image](img/preview0.png)
