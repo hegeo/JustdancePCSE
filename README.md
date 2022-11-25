@@ -52,16 +52,6 @@ Justdance PCSE Launcher V2.0，Implementing emulator auto-configuration and Andr
 
 ------
 
-#### 开发者的话
-
-用爱发电，开发不易！希望得到精神鼓励，如果本项目帮到了您，麻烦点点★ star！谢谢您！
-
-为感谢大家的支持！如果本项目★ star达到1000，我将继续开发基于yuzu的高清版本！
-
-基于yuzu的整合版本画质高清，且支持使用iPhone体感操作！
-
-------
-
 #### 界面预览 
 ![image](img/preview0.png)
 ![image](img/preview2.png)
